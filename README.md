@@ -55,7 +55,7 @@
 >Nu ska vi plocka hem ett repository från GitHub, via GitHub Desktop
 >
 >Add > Clone Repository > URL
->"PLACEHOLDER"
+>https://github.com/tedpet0423/Workshop_repo_1.git
 > 
 > Välj plats, 
 > #### OBS! Var noga med var du lägger dina repon och solutions då det skapas beroenden och om du flyttar filer/mappar kan du orsaka problem
