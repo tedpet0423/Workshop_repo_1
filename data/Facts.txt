@@ -28,3 +28,4 @@
 28. Computers only understand zeros and ones, everything else is just abstraction.
 29. CAPTCHA stands for ‘Completely Automated Public Turing test to tell Computers and Humans Apart’.
 30. The cloud is just a fancy way of saying ‘someone else’s computer’.
+31. a horseshoecrab has blue blood because of the lag of non-existant hemoglobin - Sebastian Kirjonen

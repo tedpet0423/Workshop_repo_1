@@ -3,7 +3,7 @@ namespace Workshop_repo_1;
 public class WorkshopTask
 {
     // Change this to speed up/ Slow down time between messages
-    private readonly int _sleepTime = 2000;
+    private readonly int _sleepTime = 500;
     public void TaskOne()
     {
         Console.Clear();
