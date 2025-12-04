@@ -6,6 +6,7 @@ public class WorkshopTask
     private readonly int _sleepTime = 2000;
     public void TaskOne()
     {
+        //Liten ändring
         Console.Clear();
         Console.WriteLine("This is Workshop Task Step 1.");
         Console.WriteLine("Enter Your first name:");
