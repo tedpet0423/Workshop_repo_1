@@ -38,3 +38,6 @@
 38. Unix time counts seconds from 1 January 1970, and 32-bit counters run out on 19 January 2038.
 39. Linus Torvalds named Git after the British slang word for an unpleasant person, joking that he names all his projects after himself.
 40. Minecraft was created in Sweden by Markus Persson and was originally written in Java.
+
+Min fakta.
+Joel Saume, 
